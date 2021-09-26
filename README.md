@@ -74,6 +74,6 @@ Since 9th grade data(461) is replaced by NaN it will impact Thomas high school s
 --------------------------------------------------------------------
 ## Summary
 - % Overall passing for Thomas High School fell 0.31%. Eventhough this made no changes to the ranking. Slight variation can impact the ranking of the school. If we look at the first five we can see some schools only have 0.1% difference in there overall passing.
-- Average scores are not affected by the school size. 
+- Overall d
 - 
 
