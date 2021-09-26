@@ -38,7 +38,10 @@ Even after removing the 9th grade scores from the summary, school ranking remain
 Since no other data are changed the bottom five remained same. 
 
 
-#### Impact of ninth grade score on Math and Reading scores by grade
+### Impact of ninth grade score on Math and Reading scores by grade
+#### Before
 ![before](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade%20before%20.PNG)
+
+#### After
 ![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade.PNG)
 
