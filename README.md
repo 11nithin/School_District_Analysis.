@@ -39,9 +39,5 @@ Since no other data are changed the bottom five remained same.
 
 
 ### Impact of ninth grade score on Math and Reading scores by grade
-#### Before
-![before](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade%20before%20.PNG)
-
-#### After
-![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade.PNG)
+![before_after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade%20before%20and%20after%20.PNG = 250 x 250)
 
