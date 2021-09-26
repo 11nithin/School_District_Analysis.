@@ -44,14 +44,16 @@ The only data that changed here is the Thomas High School 9th grade data to NaN.
 ![before_after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Average%20Math%20and%20Reading%20score%20by%20grade%20before%20and%20after%20.PNG)
 
 ### Impact of Scores by school spending
+Since 9th grade data(461) is replaced by NaN it will impact Thomas high school spending per student. Average scores in each spending range havent made any changes from the original data. It doesnt make sense to keep Thomas high school in the $630-644 range since 9th grade scores are missing for Thomas high school. But in a bigger picuture thomas high school 9th grade score made no impact on the school spending.
 
 ![spending](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Spending%20range%20before%20and%20after.PNG)
 
 ### Impact of Scores by school size
-
+9th grade scores made no impact on the average scores. 
 ![size](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Score%20by%20sxhool%20size.PNG)
 
 ### Impact of Scores by school type
+Thomas high school is charter type school average scores for charter is effected by the 9th grade data.
 
 ![type](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/school%20type.PNG)
 
