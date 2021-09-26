@@ -45,10 +45,9 @@ The only data that changed here is the Thomas High School 9th grade data to NaN.
 ### Impact of Scores by school spending
 ![spending](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Spending%20range%20before%20and%20after.PNG)
 ### Impact of Scores by school size
-
+![size](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Score%20by%20sxhool%20size.PNG)
 ### Impact of Scores by school type
-
-
+![type](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/school%20type.PNG)
 
 
 
