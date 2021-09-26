@@ -53,14 +53,13 @@
 
 - Impact of Scores by school spending
 
-
    Since 9th grade data(461) is replaced by NaN it will impact Thomas high school spending per student. Average scores in each spending range havent made any changes from the original data. It doesnt make sense to keep Thomas high school in the $630-644 range since 9th grade scores are missing for Thomas high school. But in a bigger picuture thomas high school 9th grade score made no impact on the school spending.
 
 ![spending](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Spending%20range%20before%20and%20after.PNG)
 --------------------------------------------------------------------
 - Impact of Scores by school size
 
-      9th grade scores made no impact on the average scores and even after removing the 9 grade students data. school size for Thomas High school remain in the 1000-2000 range. 
+    9th grade scores made no impact on the average scores and even after removing the 9 grade students data. school size for Thomas High school remain in the 1000-2000 range. 
 
    ![size](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Score%20by%20sxhool%20size.PNG)
 
