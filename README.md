@@ -58,4 +58,3 @@ Thomas high school is charter type school average scores for charter is effected
 ![type](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/school%20type.PNG)
 
 
-
