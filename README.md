@@ -14,14 +14,21 @@ Replacing Thomas high school 9th grade scores by NaN is making only very less im
 ![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/District_summary_after.PNG)
 
 ### School Summary and Schools perfomance
-Removing 9th grade data from Thomas high school made very less impact on school summary. Even after removing the 9th grade scores from the summary, school ranking remained same. Thomas high school % overall percentage and 
-
+Removing 9th grade data from Thomas high school made very less impact on school summary.  
+````
+Thomas High school summary change after removing 9th grade
+% overall passing fell 0.31%,
+% passing math fell 0.087%
+% passing reading fell 0.29%  
+````
+Even after removing the 9th grade scores from the summary, school ranking remained same. Eventhough the % overall passing variation is very less, it can make an impact on the ranking. The first and 5th ranked %overall passing differnece is 0.71%. In this case eventhough Thomas High school % overall passing fell 0.31% it made no differnce in the ranking.
 #### Top Five Schools before
 ![Top](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Top_five_schools%20before.PNG)
 
 #### Top Five Schools after
 ![Top](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Top_five_schools.PNG)
 
+Since no other data are changed the bottom five remained same. 
 #### Bottom Five Schools before
 ![Bottom](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Bottom_five_schools%20before.PNG)
 
