@@ -21,16 +21,18 @@ Thomas High school summary change after removing 9th grade
 % passing math fell 0.087%
 % passing reading fell 0.29%  
 ````
-Even after removing the 9th grade scores from the summary, school ranking remained same. Eventhough the % overall passing variation is very less, it can make an impact on the ranking. The first and 5th ranked %overall passing differnece is 0.71%. In this case eventhough Thomas High school % overall passing fell 0.31% it made no differnce in the ranking.
 #### Top Five Schools before
 ![Top](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Top_five_schools%20before.PNG)
 
 #### Top Five Schools after
 ![Top](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Top_five_schools.PNG)
 
-Since no other data are changed the bottom five remained same. 
+Even after removing the 9th grade scores from the summary, school ranking remained same. Eventhough the % overall passing variation is very less, it can make an impact on the ranking. The first and 5th ranked %overall passing differnece is 0.71%. In this case eventhough Thomas High school % overall passing fell 0.31% it made no differnce in the ranking.
+
 #### Bottom Five Schools before
 ![Bottom](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Bottom_five_schools%20before.PNG)
 
 #### Bottom Five Schools
 ![Bottom](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/Bottom_five_schools.PNG)
+
+Since no other data are changed the bottom five remained same. 
