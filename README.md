@@ -6,12 +6,15 @@ The school board has identified an evidence of academic dishonesty on students_c
 
 
 ## Results
-
-### District summary before
- ![before](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/District_summary_before.PNG)
- ### District summary after
- ![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/District_summary_after.PNG)
-### School summary before
+### District summary
+Replacing Thomas high school 9th grade scores by NaN is making only very less impact on district summary. The % overall passing fell 0.1% , % passing Math fell 0.2 % and % passing reading fell .3%. 
+#### District summary before
+![before](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/District_summary_before.PNG)
+#### District summary after
+![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/District_summary_after.PNG)
+### School summary
+Removing 9th grade data from Thomas high school made very less impact on 
+#### School summary before
 ![before](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/schoo_summary%20before.PNG)
-### School summary after
+#### School summary after
 ![after](https://github.com/11nithin/School_District_Analysis./blob/main/Resources/school_summary_afterPNG.PNG)
